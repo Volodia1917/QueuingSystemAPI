@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alta\\Training\\QueuingSystemBe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\alta\\training\\queuingsystembe\\queuingsystembe\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\alta\\training\\queuingsystembe\\queuingsystembe\\migrations\\20250528104304_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\migrations\\20250528104304_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\alta\\training\\queuingsystembe\\queuingsystembe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\alta\\training\\queuingsystembe\\queuingsystembe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\alta\\training\\queuingsystembe\\queuingsystembe\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\alta\\training\\queuingsystembe\\queuingsystembe\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\alta\\training\\queuingsystembe\\queuingsystembe\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\alta\\training\\queuingsystembe\\queuingsystembe\\models\\updateinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\models\\updateinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\alta\\training\\queuingsystembe\\queuingsystembe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250528104304_initialDb.cs",
+              "DocumentMoniker": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Migrations\\20250528104304_initialDb.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Migrations\\20250528104304_initialDb.cs",
+              "ToolTip": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Migrations\\20250528104304_initialDb.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Migrations\\20250528104304_initialDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:43:04.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\appsettings.json",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\appsettings.json",
+              "ToolTip": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\appsettings.json",
+              "RelativeToolTip": "QueuingSystemBe\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T10:37:16.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:30:26.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Program.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Program.cs",
+              "ToolTip": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Program.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:29:56.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Models\\Assignment.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Models\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:26:38.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Models\\Service.cs",
+              "ToolTip": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Models\\Service.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:24:53.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Models\\Device.cs",
+              "ToolTip": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Models\\Device.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Models\\Device.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:22:45.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Models\\User.cs",
+              "ToolTip": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Models\\User.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:18:52.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateInfor.cs",
+              "DocumentMoniker": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Models\\UpdateInfor.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Models\\UpdateInfor.cs",
+              "ToolTip": "C:\\Alta\\Training\\QueuingSystemBe\\QueuingSystemBe\\Models\\UpdateInfor.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Models\\UpdateInfor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:17:37.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
