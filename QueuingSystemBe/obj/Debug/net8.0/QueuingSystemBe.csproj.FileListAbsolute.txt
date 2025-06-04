@@ -270,3 +270,14 @@ C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\Que
 C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.genruntimeconfig.cache
 C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\ref\QueuingSystemBe.dll
 C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.csproj.AssemblyReference.cache
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.AssemblyInfoInputs.cache
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.AssemblyInfo.cs
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.csproj.CoreCompileInputs.cache
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.MvcApplicationPartsAssemblyInfo.cs
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.MvcApplicationPartsAssemblyInfo.cache
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.sourcelink.json
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.dll
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\refint\QueuingSystemBe.dll
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.pdb

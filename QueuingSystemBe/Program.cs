@@ -12,6 +12,12 @@ IConfiguration configuration = new ConfigurationBuilder()
     .AddJsonFile("appsettings.json").Build();
 
 // Add services to the container.
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
+        options.JsonSerializerOptions.MaxDepth = 64;
+    });
 
 builder.Services.AddControllers();
 builder.Services.AddDbContext<MyDbContext>(options => options.UseNpgsql(configuration.GetConnectionString("ConnectionDb")));
