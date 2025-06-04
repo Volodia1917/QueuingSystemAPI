@@ -19,6 +19,9 @@ builder.Services.AddDbContext<MyDbContext>(options => options.UseNpgsql(configur
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IServiceSvc, ServiceSvc>();
+builder.Services.AddScoped<IUserSvc, UserSvc>();
+builder.Services.AddScoped<IStatisticSvc, StatisticSvc>();
+
 
 
 
