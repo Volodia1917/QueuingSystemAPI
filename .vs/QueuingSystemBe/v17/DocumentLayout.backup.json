@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\queuingsystemapi-main\\queuingsystembe\\services\\servicesvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\servicesvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\queuingsystemapi-main\\queuingsystembe\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\queuingsystemapi-main\\queuingsystembe\\services\\iservicesvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\iservicesvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\queuingsystemapi-main\\queuingsystembe\\dtos\\servicefilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\dtos\\servicefilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\queuingsystemapi-main\\queuingsystembe\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\queuingsystemapi-main\\queuingsystembe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\queuingsystemapi-main\\queuingsystembe\\viewmodels\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\queuingsystemapi-main\\queuingsystembe\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\queuingsystemapi-main\\queuingsystembe\\models\\updateinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\models\\updateinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\queuingsystemapi-main\\queuingsystembe\\viewmodels\\servicerespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\servicerespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:10:30.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateInfor.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Models\\UpdateInfor.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Models\\UpdateInfor.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Models\\UpdateInfor.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Models\\UpdateInfor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:53:45.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceRespone.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\ViewModels\\ServiceRespone.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\ServiceRespone.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\ViewModels\\ServiceRespone.cs",
+              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\ServiceRespone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:48:30.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\ViewModels\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\ViewModels\\ServiceRequest.cs",
+              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\ServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:48:28.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServiceSvc.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Services\\IServiceSvc.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\IServiceSvc.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Services\\IServiceSvc.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Services\\IServiceSvc.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:44:55.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceSvc.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Services\\ServiceSvc.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\ServiceSvc.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Services\\ServiceSvc.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Services\\ServiceSvc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:30:47.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:19:38.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Dtos\\ServiceFilterDto.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Dtos\\ServiceFilterDto.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Dtos\\ServiceFilterDto.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Dtos\\ServiceFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:13:12.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Program.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Program.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:07:02.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Models\\Service.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Models\\Service.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:25:28.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
