@@ -66,8 +66,7 @@
               "RelativeToolTip": "QueuingSystemBe\\Models\\MyDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:10:30.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T03:10:30.973Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "QueuingSystemBe\\Models\\UpdateInfor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T14:53:45.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T14:53:45.125Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "QueuingSystemBe\\ViewModels\\ServiceRespone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T12:48:30.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T12:48:30.689Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "RelativeToolTip": "QueuingSystemBe\\ViewModels\\ServiceRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T12:48:28.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T12:48:28.071Z"
             },
             {
               "$type": "Document",
@@ -118,8 +114,7 @@
               "RelativeToolTip": "QueuingSystemBe\\Services\\IServiceSvc.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T12:44:55.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T12:44:55.298Z"
             },
             {
               "$type": "Document",
@@ -129,7 +124,7 @@
               "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\ServiceSvc.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\QueuingSystemAPI-main\\QueuingSystemBe\\Services\\ServiceSvc.cs",
               "RelativeToolTip": "QueuingSystemBe\\Services\\ServiceSvc.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAA5wHMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T12:30:47.243Z",
               "EditorCaption": ""
@@ -144,8 +139,7 @@
               "RelativeToolTip": "QueuingSystemBe\\Controllers\\ServiceController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAiwBQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T12:19:38.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T12:19:38.493Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "QueuingSystemBe\\Dtos\\ServiceFilterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T05:13:12.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T05:13:12.623Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "QueuingSystemBe\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAawDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T14:07:02.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T14:07:02.377Z"
             },
             {
               "$type": "Document",
@@ -183,8 +175,7 @@
               "RelativeToolTip": "QueuingSystemBe\\Models\\Service.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:25:28.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T03:25:28.893Z"
             }
           ]
         }
