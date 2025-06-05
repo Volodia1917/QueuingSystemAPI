@@ -1,0 +1,714 @@
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\appsettings.Development.json
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\appsettings.json
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.staticwebassets.endpoints.json
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.exe
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.deps.json
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.runtimeconfig.json
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.pdb
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Humanizer.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Npgsql.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\System.CodeDom.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\System.Text.Json.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.csproj.AssemblyReference.cache
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.AssemblyInfoInputs.cache
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.AssemblyInfo.cs
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.csproj.CoreCompileInputs.cache
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.MvcApplicationPartsAssemblyInfo.cs
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.MvcApplicationPartsAssemblyInfo.cache
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\scopedcss\bundle\QueuingSystemBe.styles.css
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.build.json
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.development.json
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\QueuingS.3F273021.Up2Date
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\refint\QueuingSystemBe.dll
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.pdb
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.genruntimeconfig.cache
+C:\Alta\Training\QueuingSystemBe\QueuingSystemBe\obj\Debug\net8.0\ref\QueuingSystemBe.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\appsettings.json
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.staticwebassets.endpoints.json
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.exe
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.deps.json
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.runtimeconfig.json
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.pdb
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Humanizer.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Npgsql.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.AssemblyInfo.cs
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\scopedcss\bundle\QueuingSystemBe.styles.css
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.QueuingSystemBe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.QueuingSystemBe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.build.QueuingSystemBe.props
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QueuingSystemBe.props
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QueuingSystemBe.props
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingS.3F273021.Up2Date
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\refint\QueuingSystemBe.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.pdb
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.genruntimeconfig.cache
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\ref\QueuingSystemBe.dll
+C:\Users\acer\Desktop\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.csproj.AssemblyReference.cache
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.AssemblyInfoInputs.cache
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.AssemblyInfo.cs
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.csproj.CoreCompileInputs.cache
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.MvcApplicationPartsAssemblyInfo.cs
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.MvcApplicationPartsAssemblyInfo.cache
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.sourcelink.json
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.dll
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\refint\QueuingSystemBe.dll
+D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.pdb
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.AssemblyInfo.cs
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\refint\QueuingSystemBe.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.pdb
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.staticwebassets.endpoints.json
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.exe
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.deps.json
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.runtimeconfig.json
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.pdb
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Humanizer.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Npgsql.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\scopedcss\bundle\QueuingSystemBe.styles.css
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.QueuingSystemBe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.QueuingSystemBe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.build.QueuingSystemBe.props
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QueuingSystemBe.props
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QueuingSystemBe.props
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingS.3F273021.Up2Date
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.genruntimeconfig.cache
+C:\Users\acer\Desktop\Testing\QueuingSystemAPI-main\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\ref\QueuingSystemBe.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\appsettings.json
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.staticwebassets.endpoints.json
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.exe
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.deps.json
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.runtimeconfig.json
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.pdb
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Humanizer.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Npgsql.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.AssemblyInfo.cs
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\scopedcss\bundle\QueuingSystemBe.styles.css
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.QueuingSystemBe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.QueuingSystemBe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.build.QueuingSystemBe.props
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QueuingSystemBe.props
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QueuingSystemBe.props
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingS.3F273021.Up2Date
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\refint\QueuingSystemBe.dll
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.pdb
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.genruntimeconfig.cache
+C:\Users\acer\Documents\Zalo Received Files\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\ref\QueuingSystemBe.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\appsettings.json
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.staticwebassets.endpoints.json
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.exe
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.deps.json
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.runtimeconfig.json
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.pdb
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Humanizer.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Npgsql.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.AssemblyInfo.cs
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\scopedcss\bundle\QueuingSystemBe.styles.css
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.QueuingSystemBe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.QueuingSystemBe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.build.QueuingSystemBe.props
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QueuingSystemBe.props
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QueuingSystemBe.props
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingS.3F273021.Up2Date
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\refint\QueuingSystemBe.dll
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.pdb
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.genruntimeconfig.cache
+C:\Users\acer\Desktop\Testing 2 0605\QueuingSystemAPI-main (2)\QueuingSystemAPI-main\QueuingSystemBe\obj\Debug\net8.0\ref\QueuingSystemBe.dll
