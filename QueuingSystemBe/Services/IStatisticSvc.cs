@@ -11,5 +11,9 @@ namespace QueuingSystemBe.Services
         public int GetAssignmentSkip();
         public DeviceStatistic GetDevice();
         public ServiceStatistic GetService();
+        public List<StatisticMonth> GetStatisticByMonth(int month);
+        public List<StatisticMonth> GetStatisticByWeek(int month);
+        public List<StatisticMonth> GetStatisticByYear();
+
     }
 }

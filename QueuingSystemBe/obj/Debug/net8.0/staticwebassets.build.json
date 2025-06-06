@@ -1,1 +1,19 @@
-{"Version":1,"Hash":"e5obM+wCiFj70ZcR9gWIo5TusRfoh1DN0BLLR5OCmNc=","Source":"QueuingSystemBe","BasePath":"_content/QueuingSystemBe","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "0XJzkHDJWp9Q6YUmphERV6b8MHrKIScnx/SFI12X2CE=",
+  "Source": "QueuingSystemBe",
+  "BasePath": "_content/QueuingSystemBe",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QueuingSystemBe\\wwwroot",
+      "Source": "QueuingSystemBe",
+      "ContentRoot": "C:\\Users\\lqq\\source\\repos\\BaiCK\\QueuingSystemBe\\wwwroot\\",
+      "BasePath": "_content/QueuingSystemBe",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

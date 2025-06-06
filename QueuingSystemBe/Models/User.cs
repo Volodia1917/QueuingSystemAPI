@@ -15,6 +15,8 @@ namespace QueuingSystemBe.Models
         [MaxLength(20)]
         public string? UserRole { get; set; }
         public string? Note { get; set; }
+        [MaxLength(3)]
+        public string? ServiceCode { get; set; }
         public byte[]? Avatar { get; set; }
     }
 }

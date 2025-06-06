@@ -4,6 +4,7 @@ using QueuingSystemBe.Services;
 using QueuingSystemBe.ViewModels;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authorization;
+using QueuingSystemBe.Models;
 
 
 namespace QueuingSystemBe.Controllers
@@ -35,15 +36,16 @@ namespace QueuingSystemBe.Controllers
         }
         [Authorize(Roles = "Admin")]
         [HttpDelete("{email}")]
-        public IActionResult DeleteUser(string email, UserRequest request)
+        public IActionResult DeleteUser(string email, [FromQuery] DeleteUserRequest delete)
         {
             string? currentEmail = User.FindFirst(System.Security.Claims.ClaimTypes.Email)?.Value;
-            request.DeletedDate = request.DeletedDate?.ToOffset(TimeSpan.Zero);
-            return Ok(svc.DeleteUser(email, currentEmail, request));
+            delete.DeletedDate = delete.DeletedDate?.ToOffset(TimeSpan.Zero);
+            return Ok(svc?.DeleteUser(email, currentEmail, delete));
+
         }
         [Authorize]
         [HttpGet("users")]
-        public IActionResult GetUsers()
+        public IActionResult GetUsers([FromQuery] string? email)
         {
             string? currentEmail = User.FindFirst(System.Security.Claims.ClaimTypes.Email)?.Value;
 
@@ -52,9 +54,8 @@ namespace QueuingSystemBe.Controllers
                 return Unauthorized("Current user not identified.");
             }
 
-            return Ok(svc.GetUser(null,currentEmail));
+            return Ok(svc.GetUser(email, currentEmail));
         }
-
     }
 }
 

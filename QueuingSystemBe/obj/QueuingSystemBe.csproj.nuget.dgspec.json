@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Program\\C#\\QueuingSystemAPI\\QueuingSystemBe\\QueuingSystemBe.csproj": {}
+    "C:\\Users\\lqq\\source\\repos\\BaiCK\\QueuingSystemBe\\QueuingSystemBe.csproj": {}
   },
   "projects": {
-    "D:\\Program\\C#\\QueuingSystemAPI\\QueuingSystemBe\\QueuingSystemBe.csproj": {
+    "C:\\Users\\lqq\\source\\repos\\BaiCK\\QueuingSystemBe\\QueuingSystemBe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program\\C#\\QueuingSystemAPI\\QueuingSystemBe\\QueuingSystemBe.csproj",
+        "projectUniqueName": "C:\\Users\\lqq\\source\\repos\\BaiCK\\QueuingSystemBe\\QueuingSystemBe.csproj",
         "projectName": "QueuingSystemBe",
-        "projectPath": "D:\\Program\\C#\\QueuingSystemAPI\\QueuingSystemBe\\QueuingSystemBe.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Program\\C#\\QueuingSystemAPI\\QueuingSystemBe\\obj\\",
+        "projectPath": "C:\\Users\\lqq\\source\\repos\\BaiCK\\QueuingSystemBe\\QueuingSystemBe.csproj",
+        "packagesPath": "C:\\Users\\lqq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lqq\\source\\repos\\BaiCK\\QueuingSystemBe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lqq\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -92,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

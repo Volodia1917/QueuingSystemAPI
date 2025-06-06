@@ -3,15 +3,18 @@ using QueuingSystemBe.ViewModels;
 using QueuingSystemBe.Helpers;
 using Microsoft.EntityFrameworkCore;
 using System.Security.Cryptography.X509Certificates;
+using Microsoft.AspNetCore.Identity;
 
 namespace QueuingSystemBe.Services
 {
     public class UserSvc : IUserSvc
     {
-        private MyDbContext _dbcontext;
-        public UserSvc(MyDbContext dbcontext)
+        private MyDbContext _dbcontext ;
+        private IWebHostEnvironment environment ;
+        public UserSvc(MyDbContext dbcontext, IWebHostEnvironment environment)
         {
             _dbcontext = dbcontext;
+            this.environment = environment;
         }
 
         public string AddUser(string currentUserEmail, UserRequest request)
@@ -26,7 +29,8 @@ namespace QueuingSystemBe.Services
                 user.UserRole = request.UserRole;
                 user.Note = request.Note;
                 user.CreatedDate = request.CreatedDate;
-                user.IsDeleted = request.IsDeleted;
+                user.ServiceCode = request.ServiceCode;
+               // user.IsDeleted = request.IsDeleted;
                 user.CreatedUser = currentUserEmail;
                 if (request.Avatar != null) {
                     MemoryStream stream = new MemoryStream();
@@ -44,21 +48,40 @@ namespace QueuingSystemBe.Services
             }
         }
 
-        public string DeleteUser(string email, string currentUserEmail, UserRequest request)
+        public string DeleteUser(string email, string currentUserEmail,DeleteUserRequest delete)
         {
 
-            User user = _dbcontext.Users.Where(x => x.Email == email && x.IsDeleted == false).FirstOrDefault();
-            if (user == null) return "Not Found";
+            User user = _dbcontext.Users.Where(x => x.Email == email).FirstOrDefault();
+            
 
             try
             {
-                user.IsDeleted = true;
-                user.DeletedUser = currentUserEmail;
-                user.DeletedDate =request.DeletedDate;
+                if (user != null)
+                {
+                    user.DeletedUser = currentUserEmail;
+                    user.DeletedDate = delete.DeletedDate;
+                    string logContent = $"Email: {user.Email}\n" +
+                                $"FullName:{user.FullName}\n" +
+                                $"Telephone: {user.Telephone}\n" +
+                                $"Note: {user.Note}\n" +
+                                $"UserRole: {user.UserRole}\n" +
+                                $"DeletedBy: {user.DeletedUser}\n" +
+                                $"DeletedDate: {user.DeletedDate}\n" +
+                                $"--------------------------\n";
 
-                _dbcontext.Users.Update(user);
-                _dbcontext.SaveChanges();
-                return "Deleted";
+                    string deletedFolder = Path.Combine(environment.WebRootPath, "Deleted");
+                    if (!Directory.Exists(deletedFolder))
+                    {
+                        Directory.CreateDirectory(deletedFolder);
+                    }
+
+                    string fullPath = Path.Combine(deletedFolder, "DeletedUsers.txt");
+                    File.AppendAllText(fullPath, logContent);
+                    _dbcontext.Users.Remove(user);
+                    _dbcontext.SaveChanges();
+                    return "Deleted";
+                }
+                return "Not Found";
             }
             catch (Exception ex)
             {
@@ -71,7 +94,7 @@ namespace QueuingSystemBe.Services
         public List<UserResponse> GetUser(string? email, string currentUserEmail)
         {
             // Lấy user hiện tại theo currentUserEmail để check role
-            User user = _dbcontext.Users.Where(u => u.Email == currentUserEmail && u.IsDeleted != true).FirstOrDefault();
+            User user = _dbcontext.Users.FirstOrDefault(u => u.Email == currentUserEmail);
 
             if (user == null)
                 return new List<UserResponse>();
@@ -80,13 +103,24 @@ namespace QueuingSystemBe.Services
 
             if (string.Equals(user.UserRole, "Admin", StringComparison.OrdinalIgnoreCase))
             {
-                // Admin: trả về tất cả user chưa bị xoá
-                users = _dbcontext.Users.Where(u => u.IsDeleted != true).ToList();
+                // Admin: nếu có email truyền vào thì lọc theo email, còn không thì lấy tất cả
+                if (!string.IsNullOrEmpty(email))
+                {
+                    users = _dbcontext.Users
+                        .Where(u => u.Email.Contains(email))
+                        .ToList();
+                }
+                else
+                {
+                    users = _dbcontext.Users.ToList();
+                }
             }
             else
             {
                 // Người dùng thường: chỉ trả chính họ
-                users = _dbcontext.Users.Where(u => u.Email == currentUserEmail && u.IsDeleted != true).ToList();
+                users = _dbcontext.Users
+                    .Where(u => u.Email == currentUserEmail)
+                    .ToList();
             }
 
             var responses = users.Select(user =>
@@ -107,12 +141,14 @@ namespace QueuingSystemBe.Services
                     Note = user.Note,
                     CreatedDate = user.CreatedDate,
                     UpdatedDate = user.UpdatedDate,
-                    ImageUrl = imageUrl
+                    ImageUrl = imageUrl,
+                    ServiceCode = user.ServiceCode
                 };
             }).ToList();
 
             return responses;
         }
+
 
 
 
@@ -157,6 +193,10 @@ namespace QueuingSystemBe.Services
                 {
                     user.Note = request.Note;
                 }
+                if (request.ServiceCode != null)
+                {
+                    user.ServiceCode = request.ServiceCode;
+                }
                 if (request.Avatar != null)
                 {
                     using (MemoryStream stream = new MemoryStream())
@@ -165,7 +205,7 @@ namespace QueuingSystemBe.Services
                         user.Avatar = stream.ToArray();
                     }
                 }
-                user.IsDeleted = request.IsDeleted;
+                //user.IsDeleted = request.IsDeleted;
                 user.UpdatedDate = request.UpdatedDate;
                 user.UpdatedUser = currentUserEmail;
 
