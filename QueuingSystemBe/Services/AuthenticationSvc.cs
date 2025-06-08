@@ -3,9 +3,11 @@ using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
 using Microsoft.AspNetCore.Identity.Data;
+using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using QueuingSystemBe.Helpers;
+using QueuingSystemBe.HubForRealTime;
 using QueuingSystemBe.Models;
 using QueuingSystemBe.ViewModels;
 
@@ -15,11 +17,19 @@ namespace QueuingSystemBe.Services
     {
         private readonly MyDbContext _context;
         private readonly IConfiguration _configuration;
+        private readonly IHubContext<AuthHub> _hubContext;
+        private readonly UserConnectSvc _connectionManager;
 
-        public AuthenticationSvc(MyDbContext context, IConfiguration configuration)
-        {
+        public AuthenticationSvc(
+            MyDbContext context,
+            IConfiguration configuration,
+            IHubContext<AuthHub> hubContext,
+            UserConnectSvc connectionManager
+            ){
             _context = context;
             _configuration = configuration;
+            _hubContext = hubContext;
+            _connectionManager = connectionManager;
         }
 
         private static List<RefreshTokenRequest> RefreshTokens = new();
@@ -54,6 +64,14 @@ namespace QueuingSystemBe.Services
             if (!ConfirmLogin(request)) return new TokenResponse();
 
             var user = _context.Users.First(u => u.Email == request.Email);
+
+            //xóa connectionId cũ
+            if (_connectionManager.TryGetConnection(user.Email, out var oldConnectionId))
+            {
+                _hubContext.Clients.Client(oldConnectionId).SendAsync("ForceLogout");
+                _connectionManager.RemoveConnection(user.Email); // xóa kết nối cũ
+            }
+          
             string accessToken = GenerateAccessToken(user.Email, user.UserRole ?? "user");
             string refreshToken = GenerateRefreshToken();
 

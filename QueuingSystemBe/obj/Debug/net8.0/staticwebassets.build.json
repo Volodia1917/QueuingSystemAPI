@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0XJzkHDJWp9Q6YUmphERV6b8MHrKIScnx/SFI12X2CE=",
+  "Hash": "zwdWB7veHHLHkXGb8QTTMIjbqXsLPM1KK2ggLwvfeXU=",
   "Source": "QueuingSystemBe",
   "BasePath": "_content/QueuingSystemBe",
   "Mode": "Default",
@@ -10,10 +10,116 @@
     {
       "Name": "QueuingSystemBe\\wwwroot",
       "Source": "QueuingSystemBe",
-      "ContentRoot": "C:\\Users\\lqq\\source\\repos\\BaiCK\\QueuingSystemBe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\",
       "BasePath": "_content/QueuingSystemBe",
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
+      "SourceId": "QueuingSystemBe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\",
+      "BasePath": "_content/QueuingSystemBe",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9pf9nt2n5h",
+      "Integrity": "Q13YBKQNN9u73lzexTNn0BKBvyGNrJ5AVqOnvo/zbjY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.9pf9nt2n5h.html",
+      "AssetFile": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4576"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q13YBKQNN9u73lzexTNn0BKBvyGNrJ5AVqOnvo/zbjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:23:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9pf9nt2n5h"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q13YBKQNN9u73lzexTNn0BKBvyGNrJ5AVqOnvo/zbjY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4576"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q13YBKQNN9u73lzexTNn0BKBvyGNrJ5AVqOnvo/zbjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 11:23:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q13YBKQNN9u73lzexTNn0BKBvyGNrJ5AVqOnvo/zbjY="
+        }
+      ]
+    }
+  ]
 }

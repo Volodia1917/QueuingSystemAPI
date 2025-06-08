@@ -8,6 +8,8 @@ using System.Security.Claims;
 using System.Text.Encodings.Web;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using System.Text.Json.Serialization;
+using QueuingSystemBe.HubForRealTime;
 
 var builder = WebApplication.CreateBuilder(args);
 IConfiguration configuration = new ConfigurationBuilder()
@@ -24,8 +26,10 @@ builder.Services.AddControllers()
         options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
         options.JsonSerializerOptions.MaxDepth = 64;
     });
-
+builder.Services.AddSignalR();
 builder.Services.AddControllers();
+builder.Services.AddSingleton<UserConnectSvc>();
+
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(option =>
 {
     option.RequireHttpsMetadata = false;
@@ -48,8 +52,10 @@ builder.Services.AddScoped<IServiceSvc, ServiceSvc>();
 builder.Services.AddScoped<IUserSvc, UserSvc>();
 builder.Services.AddScoped<IStatisticSvc, StatisticSvc>();
 builder.Services.AddScoped<IAuthenticationSvc, AuthenticationSvc>();
+builder.Services.AddScoped<IAssignmentSvc, AssignmentSvc>();
 
 var app = builder.Build();
+app.MapHub<AuthHub>("/authHub");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -59,6 +65,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseStaticFiles();
+app.UseRouting();
 
 app.UseAuthorization();
 

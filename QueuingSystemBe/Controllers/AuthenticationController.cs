@@ -30,7 +30,7 @@ namespace QueuingSystemBe.Controllers
             }
 
             var userInfo = _authService.GetUserByLogin(request);
-            return Ok(new
+            return Ok(new 
             {
                 Token = tokenResponse,
                 User = userInfo

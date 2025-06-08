@@ -24,7 +24,7 @@ namespace QueuingSystemBe.Controllers
         {
             string? currentEmail = User.FindFirst(System.Security.Claims.ClaimTypes.Email)?.Value;
             request.CreatedDate = request.CreatedDate?.ToOffset(TimeSpan.Zero);
-            return Ok(svc.AddUser(currentEmail, request));
+            return Ok(svc.AddUser("currentEmail", request));
         }
         [Authorize]
         [HttpPut("{email}")]
