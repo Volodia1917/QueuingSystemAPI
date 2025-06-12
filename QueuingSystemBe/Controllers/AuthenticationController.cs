@@ -52,7 +52,9 @@ namespace QueuingSystemBe.Controllers
             return Ok(new
             {
                 AccessToken = newAccessToken.AccessToken,
-                RefreshToken = newAccessToken.RefreshToken
+                RefreshToken = newAccessToken.RefreshToken,
+                ExpiredAccessToken = newAccessToken.ExpiredAccessToken,
+                ExpiredRefreshToken = newAccessToken.ExpiredRefreshToken,
             });
         }
         [Authorize]

@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.Mapping;
 using QueuingSystemBe.Helpers;
 using QueuingSystemBe.HubForRealTime;
 using QueuingSystemBe.Models;
@@ -48,13 +49,16 @@ namespace QueuingSystemBe.Services
             var user = _context.Users.FirstOrDefault(u => u.Email == request.Email && u.Password == hashedPassword);
             if (user == null) return null;
 
-            string imageData = user.Avatar != null ? Convert.ToBase64String(user.Avatar) : string.Empty;
+            string imageBase64Data = user.Avatar != null ? Convert.ToBase64String(user.Avatar) : string.Empty;
+            string imageData = (imageBase64Data != "") ? string.Format("data:image/jpg;base64,{0}", imageBase64Data) : "";
+            string role = user.UserRole ?? "Staff";
 
             return new UserLoginResponse
             {
                 Email = user.Email,
                 FullName = user.FullName,
-                AvatarUrl = imageData
+                AvatarUrl = imageData,
+                Role = role,
             };
         }
 
@@ -72,8 +76,12 @@ namespace QueuingSystemBe.Services
                 _connectionManager.RemoveConnection(user.Email); // xóa kết nối cũ
             }
           
-            string accessToken = GenerateAccessToken(user.Email, user.UserRole ?? "user");
+            string accessToken = GenerateAccessToken(user.Email, user.UserRole ?? "Staff");
+            string newExpiredAccessToken = "";
+            if (!string.IsNullOrEmpty(accessToken)) newExpiredAccessToken = DateTimeOffset.UtcNow.AddHours(1).ToString("yyyy-MM-dd HH:mm:ss");
             string refreshToken = GenerateRefreshToken();
+            string newExpiredRefreshToken = "";
+            if (!string.IsNullOrEmpty(accessToken)) newExpiredRefreshToken = DateTimeOffset.UtcNow.AddDays(7).ToString("yyyy-MM-dd HH:mm:ss");
 
             RefreshTokens.RemoveAll(r => r.Email == user.Email);
             RefreshTokens.Add(new RefreshTokenRequest
@@ -86,7 +94,9 @@ namespace QueuingSystemBe.Services
             return new TokenResponse
             {
                 AccessToken = accessToken,
-                RefreshToken = refreshToken
+                RefreshToken = refreshToken,
+                ExpiredAccessToken = newExpiredAccessToken,
+                ExpiredRefreshToken = newExpiredRefreshToken,
             };
         }
 
@@ -98,8 +108,12 @@ namespace QueuingSystemBe.Services
             var user = _context.Users.FirstOrDefault(u => u.Email == email);
             if (user == null) return new TokenResponse();
 
-            string newAccessToken = GenerateAccessToken(user.Email, user.UserRole ?? "user");
+            string newAccessToken = GenerateAccessToken(user.Email, user.UserRole ?? "Staff");
+            string newExpiredAccessToken = "";
+            if (!string.IsNullOrEmpty(newAccessToken)) newExpiredAccessToken = DateTimeOffset.UtcNow.AddHours(1).ToString("yyyy-MM-dd HH:mm:ss");
             string newRefreshToken = GenerateRefreshToken();
+            string newExpiredRefreshToken = "";
+            if (!string.IsNullOrEmpty(newRefreshToken)) newExpiredRefreshToken = DateTimeOffset.UtcNow.AddDays(7).ToString("yyyy-MM-dd HH:mm:ss");
 
             RefreshTokens.RemoveAll(r => r.Email == user.Email);
             RefreshTokens.Add(new RefreshTokenRequest
@@ -112,7 +126,9 @@ namespace QueuingSystemBe.Services
             return new TokenResponse
             {
                 AccessToken = newAccessToken,
-                RefreshToken = newRefreshToken
+                RefreshToken = newRefreshToken,
+                ExpiredAccessToken = newExpiredAccessToken,
+                ExpiredRefreshToken = newExpiredRefreshToken,
             };
         }
 
@@ -126,7 +142,7 @@ namespace QueuingSystemBe.Services
             {
                 new Claim(ClaimTypes.Email, email),
                 new Claim(JwtRegisteredClaimNames.Sub, _configuration["Jwt:Subject"]),
-                new Claim(ClaimTypes.Role, role ?? "user")
+                new Claim(ClaimTypes.Role, role ?? "Staff")
                 };
             var tokens = new JwtSecurityToken(_configuration["Jwt:Issuer"], _configuration["Jwt:Audience"],
                 claims, null, DateTime.Now.AddHours(1), signIn);

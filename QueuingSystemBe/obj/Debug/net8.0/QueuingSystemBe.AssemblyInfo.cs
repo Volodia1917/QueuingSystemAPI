@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QueuingSystemBe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1096640bee96241080920ada0e671c69c9f7c669")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+535ec585460c6b5d7fdc130abb8164780c87f458")]
 [assembly: System.Reflection.AssemblyProductAttribute("QueuingSystemBe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QueuingSystemBe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

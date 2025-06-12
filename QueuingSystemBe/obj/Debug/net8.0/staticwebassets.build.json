@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zwdWB7veHHLHkXGb8QTTMIjbqXsLPM1KK2ggLwvfeXU=",
+  "Hash": "UFk4bye86aEk4mRQibWW8Zg3n7XtQhdxqMR7K8/UCGs=",
   "Source": "QueuingSystemBe",
   "BasePath": "_content/QueuingSystemBe",
   "Mode": "Default",
@@ -31,59 +31,14 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9pf9nt2n5h",
-      "Integrity": "Q13YBKQNN9u73lzexTNn0BKBvyGNrJ5AVqOnvo/zbjY=",
+      "Fingerprint": "u94tmx7qei",
+      "Integrity": "HltW9P3ILGrzx7v+hlbUjRNoGFdAsrQWQAGyzcYBfFc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
     }
   ],
   "Endpoints": [
-    {
-      "Route": "index.9pf9nt2n5h.html",
-      "AssetFile": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4576"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Q13YBKQNN9u73lzexTNn0BKBvyGNrJ5AVqOnvo/zbjY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Jun 2025 11:23:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9pf9nt2n5h"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Q13YBKQNN9u73lzexTNn0BKBvyGNrJ5AVqOnvo/zbjY="
-        }
-      ]
-    },
     {
       "Route": "index.html",
       "AssetFile": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
@@ -95,7 +50,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4576"
+          "Value": "4517"
         },
         {
           "Name": "Content-Type",
@@ -103,11 +58,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Q13YBKQNN9u73lzexTNn0BKBvyGNrJ5AVqOnvo/zbjY=\""
+          "Value": "\"HltW9P3ILGrzx7v+hlbUjRNoGFdAsrQWQAGyzcYBfFc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Jun 2025 11:23:57 GMT"
+          "Value": "Sun, 08 Jun 2025 05:11:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -117,7 +72,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Q13YBKQNN9u73lzexTNn0BKBvyGNrJ5AVqOnvo/zbjY="
+          "Value": "sha256-HltW9P3ILGrzx7v+hlbUjRNoGFdAsrQWQAGyzcYBfFc="
+        }
+      ]
+    },
+    {
+      "Route": "index.u94tmx7qei.html",
+      "AssetFile": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HltW9P3ILGrzx7v+hlbUjRNoGFdAsrQWQAGyzcYBfFc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 05:11:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u94tmx7qei"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HltW9P3ILGrzx7v+hlbUjRNoGFdAsrQWQAGyzcYBfFc="
         }
       ]
     }

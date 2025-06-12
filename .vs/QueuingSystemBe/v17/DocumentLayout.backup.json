@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\dtos\\servicefilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\dtos\\servicefilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\helpers\\encryptmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\helpers\\encryptmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\hubforrealtime\\authhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\hubforrealtime\\authhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\queuingsystembe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\queuingsystembe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\services\\authenticationsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\authenticationsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,24 +15,68 @@
       "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\viewmodels\\userloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\userloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\models\\updateinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\models\\updateinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\services\\usersvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\usersvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\services\\userconnectsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\userconnectsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\services\\authenticationsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\authenticationsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\viewmodels\\servicerespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\servicerespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\viewmodels\\userloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\userloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\hubforrealtime\\authhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\hubforrealtime\\authhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\dtos\\servicefilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\dtos\\servicefilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\helpers\\encryptmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\helpers\\encryptmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\queuingsystembe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\queuingsystembe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,125 +86,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServiceFilterDto.cs",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Dtos\\ServiceFilterDto.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Dtos\\ServiceFilterDto.cs",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Dtos\\ServiceFilterDto.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Dtos\\ServiceFilterDto.cs",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Models\\User.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T05:13:15.532Z",
+              "WhenOpened": "2025-06-12T05:29:44.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:42:26.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "QueuingSystemBe",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\QueuingSystemBe.csproj",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\QueuingSystemBe.csproj",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\QueuingSystemBe.csproj",
-              "RelativeToolTip": "QueuingSystemBe\\QueuingSystemBe.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-08T05:09:27.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthHub.cs",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\HubForRealTime\\AuthHub.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\HubForRealTime\\AuthHub.cs",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\HubForRealTime\\AuthHub.cs",
-              "RelativeToolTip": "QueuingSystemBe\\HubForRealTime\\AuthHub.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBQAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T07:43:36.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
-              "RelativeToolTip": "QueuingSystemBe\\wwwroot\\index.html",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwHAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-07T09:49:01.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Program.cs",
               "RelativeDocumentMoniker": "QueuingSystemBe\\Program.cs",
               "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Program.cs",
               "RelativeToolTip": "QueuingSystemBe\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T15:52:32.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthenticationSvc.cs",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\AuthenticationSvc.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\AuthenticationSvc.cs",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\AuthenticationSvc.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Services\\AuthenticationSvc.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAkwEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T15:43:01.281Z"
+              "WhenOpened": "2025-06-06T15:52:32.293Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "UserLoginResponse.cs",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\UserLoginResponse.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\UserLoginResponse.cs",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\UserLoginResponse.cs",
-              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\UserLoginResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T16:35:05.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EncryptMd5.cs",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Helpers\\EncryptMd5.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Helpers\\EncryptMd5.cs",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Helpers\\EncryptMd5.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Helpers\\EncryptMd5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T11:12:30.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TokenResponse.cs",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\TokenResponse.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\TokenResponse.cs",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\TokenResponse.cs",
-              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\TokenResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T16:35:16.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "QueuingSystemBe\\Controllers\\UserController.cs",
@@ -192,16 +139,113 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAA1wDgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationSvc.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\AuthenticationSvc.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\AuthenticationSvc.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\AuthenticationSvc.cs*",
+              "RelativeToolTip": "QueuingSystemBe\\Services\\AuthenticationSvc.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T15:42:26.236Z",
+              "WhenOpened": "2025-06-06T15:43:01.281Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
+              "RelativeToolTip": "QueuingSystemBe\\wwwroot\\index.html",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-07T09:49:01.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\UserLoginResponse.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\UserLoginResponse.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\UserLoginResponse.cs",
+              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\UserLoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:35:05.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\TokenResponse.cs",
+              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:35:16.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateInfor.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Models\\UpdateInfor.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Models\\UpdateInfor.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Models\\UpdateInfor.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Models\\UpdateInfor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:34:32.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Controllers\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\AssignmentController.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Controllers\\AssignmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:29:19.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EncryptMd5.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Helpers\\EncryptMd5.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Helpers\\EncryptMd5.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Helpers\\EncryptMd5.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Helpers\\EncryptMd5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:12:30.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceRespone.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\ServiceRespone.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\ServiceRespone.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\ServiceRespone.cs",
+              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\ServiceRespone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:13:14.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserSvc.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\UserSvc.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\UserSvc.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\UserSvc.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Services\\UserSvc.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:13:24.319Z"
             },
             {
               "$type": "Document",
@@ -217,15 +261,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AssignmentController.cs",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\AssignmentController.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Controllers\\AssignmentController.cs",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\AssignmentController.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Controllers\\AssignmentController.cs",
+              "DocumentIndex": 13,
+              "Title": "AuthHub.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\HubForRealTime\\AuthHub.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\HubForRealTime\\AuthHub.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\HubForRealTime\\AuthHub.cs",
+              "RelativeToolTip": "QueuingSystemBe\\HubForRealTime\\AuthHub.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:43:36.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Dtos\\ServiceFilterDto.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Dtos\\ServiceFilterDto.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Dtos\\ServiceFilterDto.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Dtos\\ServiceFilterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T16:29:19.613Z"
+              "WhenOpened": "2025-06-08T05:13:15.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\appsettings.json",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\appsettings.json",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\appsettings.json",
+              "RelativeToolTip": "QueuingSystemBe\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T09:40:09.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:43:54.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QueuingSystemBe.csproj",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\QueuingSystemBe.csproj",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\QueuingSystemBe.csproj",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\QueuingSystemBe.csproj",
+              "RelativeToolTip": "QueuingSystemBe\\QueuingSystemBe.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-08T05:09:27.888Z"
             }
           ]
         }

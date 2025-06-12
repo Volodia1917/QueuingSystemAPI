@@ -20,12 +20,12 @@ IConfiguration configuration = new ConfigurationBuilder()
 IWebHostEnvironment hostEnvironment = builder.Environment;
 hostEnvironment.WebRootPath = Directory.GetCurrentDirectory();
 
-builder.Services.AddControllers()
+/*builder.Services.AddControllers()
     .AddJsonOptions(options =>
     {
         options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
         options.JsonSerializerOptions.MaxDepth = 64;
-    });
+    });*/
 builder.Services.AddSignalR();
 builder.Services.AddControllers();
 builder.Services.AddSingleton<UserConnectSvc>();
