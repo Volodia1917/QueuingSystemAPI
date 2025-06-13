@@ -4,6 +4,8 @@ namespace QueuingSystemBe.ViewModels
 {
     public class ServiceRequest
     {
+        [MaxLength(3)]
+        public string ServiceCode { get; set; }
         [MaxLength(100)]
         public string ServiceName { get; set; }
         public string? Description { get; set; }

@@ -20,40 +20,20 @@ namespace QueuingSystemBe.Services
         {
             try
             {
+                var existingService = _context.Services
+                    .FirstOrDefault(s => s.ServiceCode == serviceRequest.ServiceCode);
+
+                if (existingService != null)
+                {
+                    return $"Error: ServiceCode '{serviceRequest.ServiceCode}' already exists.";
+                }
                 Service service = new Service();
+                service.ServiceCode = serviceRequest.ServiceCode;
                 service.ServiceName = serviceRequest.ServiceName;
                 service.Description = serviceRequest.Description;
                 service.IsInOperation = serviceRequest.IsInOperation;
                 service.CreatedDate = DateTimeOffset.UtcNow;
                 service.CreatedUser = "Admin";
-
-                // Lấy các mã hiện tại (dạng "001", "002", ...) và xử lý bằng LINQ trong bộ nhớ
-                var usedCodes = _context.Services
-                    .AsEnumerable() 
-                    .Select(s => s.ServiceCode)
-                    .Where(code => code.Length == 3 && code.All(char.IsDigit))
-                    .Select(code => int.Parse(code))
-                    .OrderBy(num => num)
-                    .ToList();
-
-
-                // Tìm mã trống nhỏ nhất
-                int newCodeNum = 1;
-                foreach (var codeNum in usedCodes)
-                {
-                    if (codeNum == newCodeNum)
-                        newCodeNum++;
-                    else
-                        break;
-                }
-
-                
-                if (newCodeNum > 999)
-                    return "Error: max Service Number < 999).";
-
-                string newCode = $"{newCodeNum:D3}";
-                service.ServiceCode = newCode;
-
                 _context.Services.Add(service);
                 _context.SaveChanges();
 
@@ -68,41 +48,6 @@ namespace QueuingSystemBe.Services
 
 
 
-        public void ArchiveServiceToFile(Service service)
-        {
-            // Tạo thư mục nếu chưa có
-            string folderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "DeletedArchives");
-            if (!Directory.Exists(folderPath))
-            {
-                Directory.CreateDirectory(folderPath);
-            }
-
-            // Tạo nội dung dữ liệu cần lưu
-            var archiveData = new
-            {
-                
-                service.ServiceCode,
-                service.ServiceName,
-                service.Description,
-                service.IsInOperation,
-                service.DeletedUser,
-                service.DeletedDate 
-            };
-
-            // Chuyển thành JSON
-            string json = JsonConvert.SerializeObject(archiveData, Formatting.Indented);
-
-            // Đặt tên file theo ServiceCode và thời gian
-            string fileName = $"{service.ServiceCode}_{DateTimeOffset.UtcNow:yyyyMMddHHmmss}.json";
-            string fullPath = Path.Combine(folderPath, fileName);
-
-            // Ghi file
-            File.WriteAllText(fullPath, json);
-        }
-
-
-
-
         public string DeleteService(string ServiceCode)
         {
             try
@@ -112,7 +57,7 @@ namespace QueuingSystemBe.Services
                 {
                     service.DeletedDate = DateTime.UtcNow;
                     service.DeletedUser = "Admin";
-                    
+
                     _context.Services.Remove(service);
                     _context.SaveChanges();
                     return "Deleted";
@@ -164,7 +109,7 @@ namespace QueuingSystemBe.Services
 
 
 
-        public List<ServiceRespone> GetServices(ServiceFilterDto filter, out int totalRecords)
+        public List<ServiceResponse> GetSelectService(ServiceFilterDto filter, out int totalRecords)
         {
             var query = _context.Services
                 .Where(s => s.DeletedDate == null);
@@ -207,7 +152,7 @@ namespace QueuingSystemBe.Services
                 .ToList();
 
             // Mapping
-            var result = services.Select(service => new ServiceRespone
+            var result = services.Select(service => new ServiceResponse
             {
                 ServiceCode = service.ServiceCode,
                 ServiceName = service.ServiceName,
@@ -220,9 +165,9 @@ namespace QueuingSystemBe.Services
         }
 
 
-        public List<ServiceRespone> GetServices1()
+        public List<ServiceResponse> GetAllServices()
         {
-            List<ServiceRespone> mylist = new List<ServiceRespone>();
+            List<ServiceResponse> mylist = new List<ServiceResponse>();
 
             var ServiceList = _context.Services
                               .Where(s => s.DeletedDate == null)
@@ -231,12 +176,13 @@ namespace QueuingSystemBe.Services
 
             foreach (var service in ServiceList)
             {
-                mylist.Add(new ServiceRespone()
+                mylist.Add(new ServiceResponse()
                 {
                     ServiceCode = service.ServiceCode,
                     ServiceName = service.ServiceName,
                     Description = service.Description,
                     IsInOperation = service.IsInOperation,
+                    CreatedDate = service.CreatedDate,
 
 
                     // Nếu Service có thêm trường nào khác thì bổ sung ở đây

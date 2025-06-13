@@ -139,19 +139,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "ServiceName",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Description",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "IsInOperation",
-        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
+        "Name": "request",
+        "Type": "QueuingSystemBe.ViewModels.ServiceRequest",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -186,26 +176,16 @@
         "IsRequired": true
       },
       {
-        "Name": "ServiceName",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Description",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "IsInOperation",
-        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
+        "Name": "request",
+        "Type": "QueuingSystemBe.ViewModels.ServiceRequest",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
     "ContainingType": "QueuingSystemBe.Controllers.ServiceController",
-    "Method": "GetService1",
+    "Method": "GetAllServices",
     "RelativePath": "api/Service/all",
     "HttpMethod": "GET",
     "IsController": true,

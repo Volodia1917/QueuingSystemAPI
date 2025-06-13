@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UFk4bye86aEk4mRQibWW8Zg3n7XtQhdxqMR7K8/UCGs=",
+  "Hash": "BbgFORosMiWc7A6Ap8F2qQ22UWSyGJlHcuQAA+XhE2I=",
   "Source": "QueuingSystemBe",
   "BasePath": "_content/QueuingSystemBe",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "QueuingSystemBe\\wwwroot",
       "Source": "QueuingSystemBe",
-      "ContentRoot": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\Desktop\\test\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\",
       "BasePath": "_content/QueuingSystemBe",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\acer\\Desktop\\test\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
       "SourceId": "QueuingSystemBe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\Desktop\\test\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\",
       "BasePath": "_content/QueuingSystemBe",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -41,7 +41,7 @@
   "Endpoints": [
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\acer\\Desktop\\test\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 05:11:32 GMT"
+          "Value": "Fri, 13 Jun 2025 13:56:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -78,7 +78,7 @@
     },
     {
       "Route": "index.u94tmx7qei.html",
-      "AssetFile": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\acer\\Desktop\\test\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -99,7 +99,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 05:11:32 GMT"
+          "Value": "Fri, 13 Jun 2025 13:56:58 GMT"
         },
         {
           "Name": "Cache-Control",

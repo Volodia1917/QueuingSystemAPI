@@ -230,32 +230,19 @@
         ],
         "requestBody": {
           "content": {
-            "multipart/form-data": {
+            "application/json": {
               "schema": {
-                "type": "object",
-                "properties": {
-                  "ServiceName": {
-                    "maxLength": 100,
-                    "type": "string"
-                  },
-                  "Description": {
-                    "type": "string"
-                  },
-                  "IsInOperation": {
-                    "type": "boolean"
-                  }
-                }
-              },
-              "encoding": {
-                "ServiceName": {
-                  "style": "form"
-                },
-                "Description": {
-                  "style": "form"
-                },
-                "IsInOperation": {
-                  "style": "form"
-                }
+                "$ref": "#/components/schemas/ServiceRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ServiceRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ServiceRequest"
               }
             }
           }
@@ -304,32 +291,19 @@
         ],
         "requestBody": {
           "content": {
-            "multipart/form-data": {
+            "application/json": {
               "schema": {
-                "type": "object",
-                "properties": {
-                  "ServiceName": {
-                    "maxLength": 100,
-                    "type": "string"
-                  },
-                  "Description": {
-                    "type": "string"
-                  },
-                  "IsInOperation": {
-                    "type": "boolean"
-                  }
-                }
-              },
-              "encoding": {
-                "ServiceName": {
-                  "style": "form"
-                },
-                "Description": {
-                  "style": "form"
-                },
-                "IsInOperation": {
-                  "style": "form"
-                }
+                "$ref": "#/components/schemas/ServiceRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ServiceRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ServiceRequest"
               }
             }
           }
@@ -855,6 +829,30 @@
           "refreshTokenExpiryTime": {
             "type": "string",
             "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ServiceRequest": {
+        "type": "object",
+        "properties": {
+          "serviceCode": {
+            "maxLength": 3,
+            "type": "string",
+            "nullable": true
+          },
+          "serviceName": {
+            "maxLength": 100,
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "isInOperation": {
+            "type": "boolean",
             "nullable": true
           }
         },

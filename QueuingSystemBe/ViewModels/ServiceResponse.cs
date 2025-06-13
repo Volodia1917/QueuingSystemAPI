@@ -2,7 +2,7 @@
 
 namespace QueuingSystemBe.ViewModels
 {
-    public class ServiceRespone
+    public class ServiceResponse
     {
         [MaxLength(3)]
         public string ServiceCode { get; set; }
@@ -10,5 +10,6 @@ namespace QueuingSystemBe.ViewModels
         public string ServiceName { get; set; }
         public string? Description { get; set; }
         public bool? IsInOperation { get; set; } = true;
+        public DateTimeOffset? CreatedDate { get; set; }
     }
 }
