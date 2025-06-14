@@ -15,14 +15,6 @@ namespace QueuingSystemBe.Services
             _context = context;
         }
 
-        public List<Assignment> GetAll()
-        {
-            return _context.Assignments
-                .Include(a => a.Service)
-                .Include(a => a.Device)
-                .ToList();
-        }
-
         public List<Assignment> GetAssignmentsByRole(string email)
         {
             var user = _context.Users.FirstOrDefault(u => u.Email == email);
@@ -30,33 +22,29 @@ namespace QueuingSystemBe.Services
                 return new List<Assignment>();
 
             var role = user.UserRole ?? "";
-
-            if (role.Equals("Doctor", StringComparison.OrdinalIgnoreCase))
+            var nowUtc = DateTimeOffset.UtcNow;
+            var startOfDay = new DateTimeOffset(nowUtc.DateTime.Date, TimeSpan.Zero);
+            var endOfDay = startOfDay.AddDays(1);
+            if (role.Equals("Doctor"))
             {
                 return _context.Assignments
-                    .Where(a => a.Status == 0)
+                    .Where(a => a.Status == 1)
+                    .Where(a => a.AssignmentDate >= startOfDay && a.AssignmentDate < endOfDay)
                     .OrderBy(a => a.AssignmentDate)
-                    .Include(a => a.Service)
-                    .Include(a => a.Device)
-                    .ToList();
-            }
-            else if (role.Equals("Admin", StringComparison.OrdinalIgnoreCase))
-            {
-                return _context.Assignments
-                    .OrderBy(a => a.AssignmentDate)
-                    .Include(a => a.Service)
-                    .Include(a => a.Device)
                     .ToList();
             }
             else
             {
-                return new List<Assignment>();
+                return _context.Assignments
+                    .Where(a => a.AssignmentDate >= startOfDay && a.AssignmentDate < endOfDay)
+                    .OrderBy(a => a.AssignmentDate)
+                    .ToList();
             }
         }
 
         public Assignment GenerateNewAssignment(AssignmentCreateRequest request)
         {
-            var now = DateTime.UtcNow;
+            var now = DateTimeOffset.UtcNow;
             var datePrefix = now.ToString("yyMMdd");
 
             var todayCodes = _context.Assignments
@@ -87,7 +75,7 @@ namespace QueuingSystemBe.Services
                 Telephone = request.Telephone,
                 AssignmentDate = now,
                 ExpireDate = now.AddHours(4),
-                Status = 0,
+                Status = 1,
                 ServiceCode = request.ServiceCode,
                 DeviceCode = request.DeviceCode,
                 CreatedDate = now
@@ -97,6 +85,24 @@ namespace QueuingSystemBe.Services
             _context.SaveChanges();
 
             return assignment;
+        }
+        public bool UpdateStatusToProcessing(string code, string email)
+        {
+            var user = _context.Users.FirstOrDefault(u => u.Email == email);
+            if (user == null || !string.Equals(user.UserRole, "Doctor"))
+                return false;
+
+            var assignment = _context.Assignments.FirstOrDefault(a => a.Code == code && a.Status == 1);
+            if (assignment == null)
+                return false;
+
+            assignment.Status = 2;
+            assignment.UpdatedDate = DateTimeOffset.UtcNow;
+
+            _context.Assignments.Update(assignment);
+            _context.SaveChanges();
+
+            return true;
         }
 
     }

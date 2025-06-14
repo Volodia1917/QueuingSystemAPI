@@ -12,13 +12,6 @@ public class AssignmentController : ControllerBase
         _assignmentSvc = assignmentSvc;
     }
 
-    [HttpGet]
-    public IActionResult GetAll()
-    {
-        var data = _assignmentSvc.GetAll();
-        return Ok(data);
-    }
-
     [HttpGet("byrole")]
     public IActionResult GetByRole([FromQuery] string email)
     {
@@ -42,4 +35,24 @@ public class AssignmentController : ControllerBase
             return BadRequest(new { error = ex.Message });
         }
     }
+    [HttpPut("doctorupdatestatus")]
+    public IActionResult UpdateStatus([FromQuery] string code, [FromQuery] string email)
+    {
+        if (string.IsNullOrEmpty(code) || string.IsNullOrEmpty(email))
+            return BadRequest(new { error = "Code and email is required" });
+
+        try
+        {
+            var updated = _assignmentSvc.UpdateStatusToProcessing(code, email);
+            if (!updated)
+                return NotFound(new { error = "Failed" });
+
+            return Ok(new { message = "Update" });
+        }
+        catch (Exception ex)
+        {
+            return BadRequest(new { error = ex.Message });
+        }
+    }
+
 }
