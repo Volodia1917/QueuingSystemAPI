@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "D:\\Program\\C#\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
+      "Id": "C:\\Users\\acer\\Desktop\\Test 1706\\QueuingSystemBe\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QueuingSystemBe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QueuingSystemBe.Microsoft.AspNetCore.StaticWebAssets.props",
