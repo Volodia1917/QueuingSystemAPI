@@ -1,12 +1,53 @@
 [
   {
     "ContainingType": "AssignmentController",
-    "Method": "GetAll",
-    "RelativePath": "api/Assignment",
+    "Method": "FilterForAdmin",
+    "RelativePath": "api/Assignment/admin-filter",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "ServiceCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Status",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Source",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "StartDate",
+        "Type": "System.Nullable\u00601[[System.DateTimeOffset, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "EndDate",
+        "Type": "System.Nullable\u00601[[System.DateTimeOffset, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   },
   {
@@ -18,8 +59,13 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "email",
-        "Type": "System.String",
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
         "IsRequired": false
       }
     ],
@@ -35,7 +81,71 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "AssignmentCreateRequest",
+        "Type": "QueuingSystemBe.ViewModels.AssignmentCreateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssignmentController",
+    "Method": "UpdateStatusSequence",
+    "RelativePath": "api/Assignment/sequence-update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssignmentController",
+    "Method": "UpdateStatusToNext",
+    "RelativePath": "api/Assignment/to-next",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AssignmentController",
+    "Method": "UpdateToProcessing",
+    "RelativePath": "api/Assignment/to-processing",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QueuingSystemBe.Controllers.AuthenticationController",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/Authentication/forgot-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "QueuingSystemBe.ViewModels.ForgotPasswordRequest",
         "IsRequired": true
       }
     ],
@@ -84,6 +194,111 @@
       {
         "Name": "request",
         "Type": "QueuingSystemBe.ViewModels.RefreshTokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QueuingSystemBe.Controllers.AuthenticationController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/Authentication/reset-password",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QueuingSystemBe.Controllers.DeviceController",
+    "Method": "GetDevices",
+    "RelativePath": "api/Device",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Search",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Connected",
+        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "OperationStatus",
+        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Limit",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QueuingSystemBe.Controllers.DeviceController",
+    "Method": "AddDevice",
+    "RelativePath": "api/Device",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "QueuingSystemBe.ViewModels.DeviceRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QueuingSystemBe.Controllers.DeviceController",
+    "Method": "UpdateDevice",
+    "RelativePath": "api/Device/{deviceCode}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviceCode",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "QueuingSystemBe.ViewModels.DeviceRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QueuingSystemBe.Controllers.DeviceController",
+    "Method": "DeleteDevice",
+    "RelativePath": "api/Device/{deviceCode}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviceCode",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],

@@ -426,8 +426,6 @@ C:\Users\lqq\source\repos\BaiCK\QueuingSystemBe\obj\Debug\net8.0\ref\QueuingSyst
 C:\Users\lqq\source\repos\BaiCK\QueuingSystemBe\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\lqq\source\repos\BaiCK\QueuingSystemBe\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\lqq\source\repos\BaiCK\QueuingSystemBe\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\trand\Desktop\QueuingSystemAPI\QueuingSystemBe\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\trand\Desktop\QueuingSystemAPI\QueuingSystemBe\bin\Debug\net8.0\appsettings.json
 C:\Users\trand\Desktop\QueuingSystemAPI\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.staticwebassets.runtime.json
 C:\Users\trand\Desktop\QueuingSystemAPI\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.staticwebassets.endpoints.json
 C:\Users\trand\Desktop\QueuingSystemAPI\QueuingSystemBe\bin\Debug\net8.0\QueuingSystemBe.exe
@@ -1006,3 +1004,4 @@ C:\Users\acer\Desktop\Test 1706\QueuingSystemBe\obj\Debug\net8.0\staticwebassets
 C:\Users\acer\Desktop\Test 1706\QueuingSystemBe\obj\Debug\net8.0\QueuingS.3F273021.Up2Date
 C:\Users\acer\Desktop\Test 1706\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.genruntimeconfig.cache
 C:\Users\acer\Desktop\Test 1706\QueuingSystemBe\obj\Debug\net8.0\ref\QueuingSystemBe.dll
+C:\Users\trand\Desktop\QueuingSystemAPI\QueuingSystemBe\bin\Debug\net8.0\appsettings.json

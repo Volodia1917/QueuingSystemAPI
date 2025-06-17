@@ -29,7 +29,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Jun 2025 06:45:46 GMT"
+          "Value": "Tue, 17 Jun 2025 13:17:47 GMT"
         }
       ],
       "EndpointProperties": [
@@ -66,7 +66,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Jun 2025 06:45:46 GMT"
+          "Value": "Tue, 17 Jun 2025 13:17:47 GMT"
         }
       ],
       "EndpointProperties": [
@@ -81,6 +81,88 @@
         {
           "Name": "label",
           "Value": "index.html"
+        }
+      ]
+    },
+    {
+      "Route": "swagger/swagger-authtoken.js",
+      "AssetFile": "swagger/swagger-authtoken.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"onhdk7xtOZmxYoev+RfUTPLKzkh0ovfUAaWWXQVyBtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Jun 2025 11:56:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-onhdk7xtOZmxYoev+RfUTPLKzkh0ovfUAaWWXQVyBtU="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/swagger-authtoken.yrb3xyerdy.js",
+      "AssetFile": "swagger/swagger-authtoken.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"onhdk7xtOZmxYoev+RfUTPLKzkh0ovfUAaWWXQVyBtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Jun 2025 11:56:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yrb3xyerdy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-onhdk7xtOZmxYoev+RfUTPLKzkh0ovfUAaWWXQVyBtU="
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/swagger-authtoken.js"
         }
       ]
     }

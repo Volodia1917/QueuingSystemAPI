@@ -10,5 +10,7 @@ namespace QueuingSystemBe.Services
         public TokenResponse? RefreshAccessToken(string email, string refreshToken);
         public bool ValidateRefreshToken(string email, string refreshToken);
         public bool Logout(string email);
+        Task SendResetPasswordEmailAsync(string email, string baseUrl);
+        Task<bool> ResetPasswordAsync(string token);
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Uc56/frlwukJ1U72OqM0Lkj2fxyVF0AAwoWQqvJE7lU=",
+  "Hash": "U9llJmWS9wTeb6IoJ+PIuia37AUBgFipVkKK8wDQMeQ=",
   "Source": "QueuingSystemBe",
   "BasePath": "_content/QueuingSystemBe",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "QueuingSystemBe\\wwwroot",
       "Source": "QueuingSystemBe",
-      "ContentRoot": "C:\\Users\\acer\\Desktop\\Test 1706\\QueuingSystemBe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\",
       "BasePath": "_content/QueuingSystemBe",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\acer\\Desktop\\Test 1706\\QueuingSystemBe\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
       "SourceId": "QueuingSystemBe",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\acer\\Desktop\\Test 1706\\QueuingSystemBe\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\",
       "BasePath": "_content/QueuingSystemBe",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -36,12 +36,33 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\swagger\\swagger-authtoken.js",
+      "SourceId": "QueuingSystemBe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\",
+      "BasePath": "_content/QueuingSystemBe",
+      "RelativePath": "swagger/swagger-authtoken#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yrb3xyerdy",
+      "Integrity": "onhdk7xtOZmxYoev+RfUTPLKzkh0ovfUAaWWXQVyBtU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\swagger-authtoken.js"
     }
   ],
   "Endpoints": [
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\acer\\Desktop\\Test 1706\\QueuingSystemBe\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -62,7 +83,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Jun 2025 06:45:46 GMT"
+          "Value": "Tue, 17 Jun 2025 13:17:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -78,7 +99,7 @@
     },
     {
       "Route": "index.u94tmx7qei.html",
-      "AssetFile": "C:\\Users\\acer\\Desktop\\Test 1706\\QueuingSystemBe\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -99,7 +120,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Jun 2025 06:45:46 GMT"
+          "Value": "Tue, 17 Jun 2025 13:17:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -118,6 +139,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-HltW9P3ILGrzx7v+hlbUjRNoGFdAsrQWQAGyzcYBfFc="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/swagger-authtoken.js",
+      "AssetFile": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\swagger\\swagger-authtoken.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"onhdk7xtOZmxYoev+RfUTPLKzkh0ovfUAaWWXQVyBtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Jun 2025 11:56:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-onhdk7xtOZmxYoev+RfUTPLKzkh0ovfUAaWWXQVyBtU="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/swagger-authtoken.yrb3xyerdy.js",
+      "AssetFile": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\wwwroot\\swagger\\swagger-authtoken.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"onhdk7xtOZmxYoev+RfUTPLKzkh0ovfUAaWWXQVyBtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Jun 2025 11:56:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yrb3xyerdy"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/swagger-authtoken.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-onhdk7xtOZmxYoev+RfUTPLKzkh0ovfUAaWWXQVyBtU="
         }
       ]
     }

@@ -208,7 +208,7 @@ namespace QueuingSystemBe.Services
                 //user.IsDeleted = request.IsDeleted;
                 user.UpdatedDate = request.UpdatedDate;
                 user.UpdatedUser = currentUserEmail;
-
+                _dbcontext.Update(user);
                 _dbcontext.SaveChanges();
                 return "Updated";
             }

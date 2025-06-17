@@ -1,62 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\Main Device\\",
+  "WorkspaceRootPath": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\main device\\queuingsystembe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\services\\usersvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\usersvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\main device\\queuingsystembe\\viewmodels\\devicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\devicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\services\\userconnectsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\userconnectsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\main device\\queuingsystembe\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\main device\\queuingsystembe\\services\\devicesvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\devicesvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\services\\authenticationsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\authenticationsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\main device\\queuingsystembe\\services\\idevicesvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\idevicesvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\main device\\queuingsystembe\\viewmodels\\deviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\deviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\main device\\queuingsystembe\\viewmodels\\devicefilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\devicefilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\main device\\queuingsystembe\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\main device\\queuingsystembe\\viewmodels\\assignmentcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\assignmentcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\main device\\queuingsystembe\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\main device\\queuingsystembe\\viewmodels\\assignmentfilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\assignmentfilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\main device\\queuingsystembe\\services\\iassignmentsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\iassignmentsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\main device\\queuingsystembe\\viewmodels\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\acer\\desktop\\main device\\queuingsystembe\\services\\assignmentsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\assignmentsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\viewmodels\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,180 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DeviceResponse.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\ViewModels\\DeviceResponse.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\DeviceResponse.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\ViewModels\\DeviceResponse.cs",
-              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\DeviceResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:50:09.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DeviceRequest.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\ViewModels\\DeviceRequest.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\DeviceRequest.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\ViewModels\\DeviceRequest.cs",
-              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\DeviceRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:49:37.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DeviceFilterRequest.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\ViewModels\\DeviceFilterRequest.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\DeviceFilterRequest.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\ViewModels\\DeviceFilterRequest.cs",
-              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\DeviceFilterRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:49:15.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IDeviceSvc.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Services\\IDeviceSvc.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\IDeviceSvc.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Services\\IDeviceSvc.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Services\\IDeviceSvc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:48:14.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DeviceSvc.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Services\\DeviceSvc.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\DeviceSvc.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Services\\DeviceSvc.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Services\\DeviceSvc.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAADwv2IAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:47:54.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Device.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Models\\Device.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Models\\Device.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Models\\Device.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Models\\Device.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:47:35.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DeviceController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Controllers\\DeviceController.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Controllers\\DeviceController.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Controllers\\DeviceController.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Controllers\\DeviceController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAADwvzgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:47:22.214Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Program.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Program.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Program.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Title": "UserSvc.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\UserSvc.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\UserSvc.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\UserSvc.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Services\\UserSvc.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAowNIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T13:41:37.768Z",
+              "WhenOpened": "2025-06-17T15:53:46.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AssignmentCreateRequest.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\ViewModels\\AssignmentCreateRequest.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\AssignmentCreateRequest.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\ViewModels\\AssignmentCreateRequest.cs",
-              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\AssignmentCreateRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UserConnectSvc.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\UserConnectSvc.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\UserConnectSvc.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\UserConnectSvc.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Services\\UserConnectSvc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T13:40:28.528Z"
+              "WhenOpened": "2025-06-17T15:53:43.509Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PagedResult.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\ViewModels\\PagedResult.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\PagedResult.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\ViewModels\\PagedResult.cs",
-              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\PagedResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Models\\User.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T13:41:11.871Z"
+              "WhenOpened": "2025-06-17T15:53:38.928Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AssignmentFilterRequest.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\ViewModels\\AssignmentFilterRequest.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\AssignmentFilterRequest.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\ViewModels\\AssignmentFilterRequest.cs",
-              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\AssignmentFilterRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAkAAAAsAAAA",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationSvc.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\AuthenticationSvc.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\AuthenticationSvc.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\AuthenticationSvc.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Services\\AuthenticationSvc.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAswMUAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T13:40:49.118Z"
+              "WhenOpened": "2025-06-17T13:40:36.802Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IAssignmentSvc.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Services\\IAssignmentSvc.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\IAssignmentSvc.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Services\\IAssignmentSvc.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Services\\IAssignmentSvc.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAYAAAA9AAAA",
+              "DocumentIndex": 5,
+              "Title": "ForgotPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\ForgotPasswordRequest.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\ForgotPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\ForgotPasswordRequest.cs",
+              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\ForgotPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T13:06:49.492Z"
+              "WhenOpened": "2025-06-17T13:32:47.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AssignmentController.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Controllers\\AssignmentController.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Controllers\\AssignmentController.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Controllers\\AssignmentController.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Controllers\\AssignmentController.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFQAAABHAAAA",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "QueuingSystemBe\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "QueuingSystemBe\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T13:06:39.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AssignmentSvc.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Services\\AssignmentSvc.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\AssignmentSvc.cs",
-              "ToolTip": "C:\\Users\\acer\\Desktop\\Main Device\\QueuingSystemBe\\Services\\AssignmentSvc.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Services\\AssignmentSvc.cs",
-              "ViewState": "AQIAAMAAAAAAAAAAAAAAANQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T13:06:23.621Z"
+              "WhenOpened": "2025-06-17T13:26:07.255Z"
             }
           ]
         }

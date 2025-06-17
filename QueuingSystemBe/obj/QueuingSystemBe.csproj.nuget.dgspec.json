@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\Desktop\\Test 1706\\QueuingSystemBe\\QueuingSystemBe.csproj": {}
+    "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\QueuingSystemBe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\Desktop\\Test 1706\\QueuingSystemBe\\QueuingSystemBe.csproj": {
+    "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\QueuingSystemBe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\Desktop\\Test 1706\\QueuingSystemBe\\QueuingSystemBe.csproj",
+        "projectUniqueName": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\QueuingSystemBe.csproj",
         "projectName": "QueuingSystemBe",
-        "projectPath": "C:\\Users\\acer\\Desktop\\Test 1706\\QueuingSystemBe\\QueuingSystemBe.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\Desktop\\Test 1706\\QueuingSystemBe\\obj\\",
+        "projectPath": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\QueuingSystemBe.csproj",
+        "packagesPath": "C:\\Users\\trand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\trand\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

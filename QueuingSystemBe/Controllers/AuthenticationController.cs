@@ -1,6 +1,13 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using QueuingSystemBe.Helpers;
+using QueuingSystemBe.Models;
 using QueuingSystemBe.Services;
 using QueuingSystemBe.ViewModels;
 
@@ -11,10 +18,12 @@ namespace QueuingSystemBe.Controllers
     public class AuthenticationController : ControllerBase
     {
         private readonly IAuthenticationSvc _authService;
+        private readonly MyDbContext _myDbContext;
 
-        public AuthenticationController(IAuthenticationSvc authService)
+        public AuthenticationController(IAuthenticationSvc authService, MyDbContext myDbContext)
         {
             _authService = authService;
+            _myDbContext = myDbContext;
         }
 
         /// <summary>
@@ -67,5 +76,27 @@ namespace QueuingSystemBe.Controllers
 
             return NotFound(new { message = "User not found or no tokens to remove." });
         }
+        [HttpPost("forgot-password")]
+        public async Task<IActionResult> ForgotPassword([FromBody] ForgotPasswordRequest request)
+        {
+            var user = _myDbContext.Users.FirstOrDefault(u => u.Email == request.Email);
+            if (user == null) return Ok(new { message = "Email này chưa được đăng kí" });
+            var baseUrl = $"{Request.Scheme}://{Request.Host}";
+            await _authService.SendResetPasswordEmailAsync(request.Email, baseUrl);
+            return Ok(new { message = "Nếu email tồn tại, bạn sẽ nhận được liên kết đặt lại mật khẩu." });
+        }
+
+
+        [HttpGet("reset-password")]
+        public async Task<IActionResult> ResetPassword([FromQuery] string token)
+        {
+            var success = await _authService.ResetPasswordAsync(token);
+            if (success)
+                return Ok("Mật khẩu mới đã được gửi đến email của bạn.");
+            else
+                return BadRequest("Token không hợp lệ hoặc đã hết hạn.");
+        }
+
+
     }
 }
