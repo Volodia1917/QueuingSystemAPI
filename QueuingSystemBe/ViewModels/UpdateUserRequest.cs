@@ -6,6 +6,8 @@ namespace QueuingSystemBe.ViewModels
     {
         [MaxLength(100)]
         public string? FullName { get; set; }
+         [MaxLength(200)]
+        public string? Password { get; set; }
         [MaxLength(20)]
         public string? Telephone { get; set; }
         [MaxLength(20)]
