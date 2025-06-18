@@ -17,11 +17,11 @@ namespace QueuingSystemBe.Services
             _context = context;
         }
 
-        public object GetAssignmentsByRole(string email, int page = 1, int pageSize = 10)
+        public object GetAssignmentsByRole(string email)
         {
             var user = _context.Users.FirstOrDefault(u => u.Email == email);
             if (user == null)
-                return new { TotalItems = 0, Page = page, PageSize = pageSize, Items = new List<object>() };
+                return new { TotalItems = 0, Items = new List<object>() };
 
             var role = user.UserRole ?? "";
 
@@ -37,14 +37,8 @@ namespace QueuingSystemBe.Services
             }
 
             var totalItems = query.Count();
-
-            page = page <= 0 ? 1 : page;
-            pageSize = pageSize <= 0 ? 10 : pageSize;
-
             var items = query
                 .OrderBy(a => a.AssignmentDate)
-                .Skip((page - 1) * pageSize)
-                .Take(pageSize)
                 .Join(
                     _context.Services,
                     assignment => assignment.ServiceCode,
@@ -70,8 +64,6 @@ namespace QueuingSystemBe.Services
             return new
             {
                 TotalItems = totalItems,
-                Page = page,
-                PageSize = pageSize,
                 Items = items
             };
         }

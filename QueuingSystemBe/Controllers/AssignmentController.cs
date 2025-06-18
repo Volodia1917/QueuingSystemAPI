@@ -17,13 +17,13 @@ public class AssignmentController : ControllerBase
 
     [HttpGet("byrole")]
     [Authorize]
-    public IActionResult GetByRole([FromQuery] int page = 1, [FromQuery] int pageSize = 10)
+    public IActionResult GetByRole()
     {
         var email = User.FindFirst(ClaimTypes.Email)?.Value;
         if (string.IsNullOrEmpty(email))
             return Unauthorized(new { error = "Don't find email in token." });
 
-        var result = _assignmentSvc.GetAssignmentsByRole(email, page, pageSize);
+        var result = _assignmentSvc.GetAssignmentsByRole(email);
         return Ok(result);
     }
 
@@ -48,10 +48,10 @@ public class AssignmentController : ControllerBase
     {
         var email = User.FindFirst(ClaimTypes.Email)?.Value;
         if (string.IsNullOrEmpty(email))
-            return Unauthorized(new { error = "Don't Find email in token." });
+            return Unauthorized(new { error = "Không tìm thấy email trong token." });
 
         var result = _assignmentSvc.UpdateStatusToProcessing(code, email);
-        return result ? Ok() : BadRequest("Don't update status.");
+        return result ? Ok() : BadRequest("Không thể cập nhật trạng thái.");
     }
 
     [HttpPut("to-next")]
@@ -60,10 +60,10 @@ public class AssignmentController : ControllerBase
     {
         var email = User.FindFirst(ClaimTypes.Email)?.Value;
         if (string.IsNullOrEmpty(email))
-            return Unauthorized(new { error = "Don't Find email in token." });
+            return Unauthorized(new { error = "Không tìm thấy email trong token." });
 
         var result = _assignmentSvc.UpdateStatusToNext(code, email);
-        return result ? Ok() : BadRequest("Don't update status.");
+        return result ? Ok() : BadRequest("Không thể cập nhật trạng thái.");
     }
 
     [HttpPut("sequence-update")]
@@ -72,10 +72,10 @@ public class AssignmentController : ControllerBase
     {
         var email = User.FindFirst(ClaimTypes.Email)?.Value;
         if (string.IsNullOrEmpty(email))
-            return Unauthorized(new { error = "Don't Find email in token." });
+            return Unauthorized(new { error = "Không tìm thấy email trong token." });
 
         var result = _assignmentSvc.UpdateStatusSequence(code, email);
-        return result ? Ok() : BadRequest("Don't update status.");
+        return result ? Ok() : BadRequest("Không thể cập nhật trạng thái.");
     }
 
     [HttpGet("admin-filter")]
