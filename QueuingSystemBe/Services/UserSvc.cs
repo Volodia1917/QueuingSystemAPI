@@ -176,7 +176,10 @@ namespace QueuingSystemBe.Services
                 {
                     user.FullName = updateUserRequest.FullName;
                 }
-                
+                if (updateUserRequest.Password != null)
+                {
+                    user.Password = updateUserRequest.Password;
+                }
                 if (updateUserRequest.Telephone != null)
                 {
                     user.Telephone = updateUserRequest.Telephone;
