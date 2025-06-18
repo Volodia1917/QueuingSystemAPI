@@ -857,4 +857,3 @@ D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\scopedcss\bundle
 D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingS.3F273021.Up2Date
 D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\QueuingSystemBe.genruntimeconfig.cache
 D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\obj\Debug\net8.0\ref\QueuingSystemBe.dll
-D:\Program\C#\QueuingSystemAPI\QueuingSystemBe\bin\Debug\net8.0\appsettings.json

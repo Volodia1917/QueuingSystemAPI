@@ -17,11 +17,11 @@ namespace QueuingSystemBe.Services
             _context = context;
         }
 
-        public PagedResult<Assignment> GetAssignmentsByRole(string email, int page = 1, int pageSize = 10)
+        public object GetAssignmentsByRole(string email, int page = 1, int pageSize = 10)
         {
             var user = _context.Users.FirstOrDefault(u => u.Email == email);
             if (user == null)
-                return new PagedResult<Assignment>();
+                return new { TotalItems = 0, Page = page, PageSize = pageSize, Items = new List<object>() };
 
             var role = user.UserRole ?? "";
 
@@ -45,17 +45,36 @@ namespace QueuingSystemBe.Services
                 .OrderBy(a => a.AssignmentDate)
                 .Skip((page - 1) * pageSize)
                 .Take(pageSize)
+                .Join(
+                    _context.Services,
+                    assignment => assignment.ServiceCode,
+                    service => service.ServiceCode,
+                    (assignment, service) => new
+                    {
+                        assignment.Code,
+                        assignment.CustomerName,
+                        assignment.CustomerEmail,
+                        assignment.Telephone,
+                        assignment.AssignmentDate,
+                        assignment.ExpireDate,
+                        assignment.Status,
+                        assignment.ServiceCode,
+                        ServiceName = service.ServiceName,
+                        assignment.DeviceCode,
+                        assignment.CreatedDate,
+                        assignment.UpdatedDate
+                    }
+                )
                 .ToList();
 
-            return new PagedResult<Assignment>
+            return new
             {
-                Items = items,
                 TotalItems = totalItems,
                 Page = page,
-                PageSize = pageSize
+                PageSize = pageSize,
+                Items = items
             };
         }
-
         public Assignment GenerateNewAssignment(AssignmentCreateRequest request)
         {
             var now = DateTimeOffset.UtcNow;
@@ -164,14 +183,10 @@ namespace QueuingSystemBe.Services
 
             return true;
         }
-        public PagedResult<Assignment> FilterAssignmentsForAdmin(AssignmentFilterRequest request)
+        public object FilterAssignmentsForAdmin(AssignmentFilterRequest request)
         {
-            var nowUtc = DateTimeOffset.UtcNow;
-            var startOfDay = new DateTimeOffset(nowUtc.DateTime.Date, TimeSpan.Zero);
-            var endOfDay = startOfDay.AddDays(1);
 
-            var query = _context.Assignments
-                    .Where(a => a.AssignmentDate >= startOfDay && a.AssignmentDate < endOfDay);
+            IQueryable<Assignment> query = _context.Assignments;
 
             if (!string.IsNullOrEmpty(request.ServiceCode))
                 query = query.Where(a => a.ServiceCode.Contains(request.ServiceCode));
@@ -197,9 +212,29 @@ namespace QueuingSystemBe.Services
                 .OrderByDescending(a => a.AssignmentDate)
                 .Skip((request.Page - 1) * request.PageSize)
                 .Take(request.PageSize)
+                .Join(
+                    _context.Services,
+                    assignment => assignment.ServiceCode,
+                    service => service.ServiceCode,
+                    (assignment, service) => new
+                    {
+                        assignment.Code,
+                        assignment.CustomerName,
+                        assignment.CustomerEmail,
+                        assignment.Telephone,
+                        assignment.AssignmentDate,
+                        assignment.ExpireDate,
+                        assignment.Status,
+                        assignment.ServiceCode,
+                        ServiceName = service.ServiceName,
+                        assignment.DeviceCode,
+                        assignment.CreatedDate,
+                        assignment.UpdatedDate
+                    }
+                )
                 .ToList();
 
-            return new PagedResult<Assignment>
+            return new
             {
                 TotalItems = totalItems,
                 Page = request.Page,
@@ -207,6 +242,5 @@ namespace QueuingSystemBe.Services
                 Items = items
             };
         }
-
     }
 }
