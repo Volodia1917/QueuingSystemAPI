@@ -17,24 +17,23 @@ namespace QueuingSystemBe.Services
             this.environment = environment;
         }
 
-        public string AddUser(string currentUserEmail, UserRequest request)
+        public string AddUser(string currentUserEmail, AddUserRequest addUserRequest)
         {
             try
             {
                 User user = new User();
-                user.Email = request.Email;
-                user.FullName = request.FullName;
-                user.Password = EncryptMd5.MD5Function(request.Password);
-                user.Telephone = request.Telephone;
-                user.UserRole = request.UserRole;
-                user.Note = request.Note;
-                user.CreatedDate = request.CreatedDate;
-                user.ServiceCode = request.ServiceCode;
-               // user.IsDeleted = request.IsDeleted;
+                user.Email = addUserRequest.Email;
+                user.FullName = addUserRequest.FullName;
+                user.Password = EncryptMd5.MD5Function(addUserRequest.Password);
+                user.Telephone = addUserRequest.Telephone;
+                user.UserRole = addUserRequest.UserRole;
+                user.Note = addUserRequest.Note;
+                user.CreatedDate = addUserRequest.CreatedDate;
+                user.ServiceCode = addUserRequest.ServiceCode;
                 user.CreatedUser = currentUserEmail;
-                if (request.Avatar != null) {
+                if (addUserRequest.Avatar != null) {
                     MemoryStream stream = new MemoryStream();
-                    request.Avatar.CopyTo(stream);
+                    addUserRequest.Avatar.CopyTo(stream);
                     user.Avatar = stream.ToArray();
                 }
                 _dbcontext.Users.Add(user);
@@ -155,7 +154,7 @@ namespace QueuingSystemBe.Services
 
 
 
-        public string UpdateUser(string email, string currentUserEmail, UserRequest request)
+        public string UpdateUser(string email, string currentUserEmail, UpdateUserRequest updateUserRequest)
         {
 
             User user = _dbcontext.Users.Where(x => x.Email == email).FirstOrDefault();
@@ -173,40 +172,36 @@ namespace QueuingSystemBe.Services
 
             try
             {
-                if (request.FullName != null)
+                if (updateUserRequest.FullName != null)
                 {
-                    user.FullName = request.FullName;
+                    user.FullName = updateUserRequest.FullName;
                 }
-                if (request.Password != null)
+                
+                if (updateUserRequest.Telephone != null)
                 {
-                    user.Password = EncryptMd5.MD5Function(request.Password);
+                    user.Telephone = updateUserRequest.Telephone;
                 }
-                if (request.Telephone != null)
+                if (updateUserRequest.UserRole != null)
                 {
-                    user.Telephone = request.Telephone;
+                    user.UserRole = updateUserRequest.UserRole;
                 }
-                if (request.UserRole != null)
+                if (updateUserRequest.Note != null)
                 {
-                    user.UserRole = request.UserRole;
+                    user.Note = updateUserRequest.Note;
                 }
-                if (request.Note != null)
+                if (updateUserRequest.ServiceCode != null)
                 {
-                    user.Note = request.Note;
+                    user.ServiceCode = updateUserRequest.ServiceCode;
                 }
-                if (request.ServiceCode != null)
-                {
-                    user.ServiceCode = request.ServiceCode;
-                }
-                if (request.Avatar != null)
+                if (updateUserRequest.Avatar != null)
                 {
                     using (MemoryStream stream = new MemoryStream())
                     {
-                        request.Avatar.CopyTo(stream);
+                        updateUserRequest.Avatar.CopyTo(stream);
                         user.Avatar = stream.ToArray();
                     }
                 }
-                //user.IsDeleted = request.IsDeleted;
-                user.UpdatedDate = request.UpdatedDate;
+                user.UpdatedDate = updateUserRequest.UpdatedDate;
                 user.UpdatedUser = currentUserEmail;
 
                 _dbcontext.SaveChanges();

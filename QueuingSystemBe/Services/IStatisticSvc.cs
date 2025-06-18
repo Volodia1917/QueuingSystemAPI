@@ -5,15 +5,10 @@ namespace QueuingSystemBe.Services
 {
     public interface IStatisticSvc
     {
-        public int GetAssignments();
-        public int GetAssignmentUsed();
-        public int GetAssignmentWait();
-        public int GetAssignmentSkip();
-        public DeviceStatistic GetDevice();
-        public ServiceStatistic GetService();
-        public List<StatisticMonth> GetStatisticByMonth(int month);
-        public List<StatisticMonth> GetStatisticByWeek(int month);
-        public List<StatisticMonth> GetStatisticByYear();
+        public DashboardStatistic GetDashboardOverview(string period = "day", int? month = null);
+        public NumbersOverview GetNumbersOverview();
+        public List<ChartData> GetChartData(string name = "day", int? month = null);
+        public OverallSummary GetOverallSummary();
 
     }
 }

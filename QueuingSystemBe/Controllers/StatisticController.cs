@@ -16,60 +16,66 @@ namespace QueuingSystemBe.Controllers
         public StatisticController(IStatisticSvc svc)
         {
             this.svc = svc;
-        }     
-        [HttpGet]
-        public IActionResult GetAssignments()
-        {
-            return Ok(new { total = svc.GetAssignments() });
         }
 
-        [HttpGet("used")]
-        public IActionResult GetAssignmentUsed()
+        [HttpGet("dashboard")]
+        public IActionResult GetDashboardOverview(
+            [FromQuery] string period = "day",
+            [FromQuery] int? month = null)
         {
-            return Ok(new { total = svc.GetAssignmentUsed() });
+            try
+            {
+                var dashboard = svc.GetDashboardOverview(period, month);
+                return Ok(dashboard);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = "Error retrieving dashboard data", error = ex.Message });
+            }
         }
 
-        [HttpGet("wait")]
-        public IActionResult GetAssignmentWait()
+        [HttpGet("numbers-overview")]
+        public IActionResult GetNumbersOverview()
         {
-            return Ok(new { total = svc.GetAssignmentWait() });
+            try
+            {
+                var overview = svc.GetNumbersOverview();
+                return Ok(overview);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = "Error retrieving numbers overview", error = ex.Message });
+            }
         }
 
-        [HttpGet("skip")]
-        public IActionResult GetAssignmentSkip()
+        [HttpGet("chart-data")]
+        public IActionResult GetChartData(
+     [FromQuery] string period = "day",
+     [FromQuery] int? month = null) 
         {
-            return Ok(new { total = svc.GetAssignmentSkip() });
+            try
+            {
+                var chartData = svc.GetChartData(period, month);
+                return Ok(chartData);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = "Error retrieving chart data", error = ex.Message });
+            }
         }
 
-        [HttpGet("day")]
-        public IActionResult GetStatisticByMonth(int month)
+        [HttpGet("overall-summary")]
+        public IActionResult GetOverallSummary()
         {
-            return Ok(new { total = svc.GetStatisticByMonth(month) });
-        }
-
-
-        [HttpGet("week")]
-        public IActionResult GetStatisticByWeek(int month)
-        {
-            return Ok(new { total = svc.GetStatisticByWeek(month) });
-        }
-
-
-        [HttpGet("year")]
-        public IActionResult GetStatisticByYear()
-        {
-            return Ok(new { total = svc.GetStatisticByYear() });
-        }
-
-        [HttpGet("device")]
-        public IActionResult GetDevice()
-        {
-            return Ok(new { total = svc.GetDevice() });
-        }
-        [HttpGet("service")]
-        public IActionResult GetService()
-        {
-            return Ok(new { total = svc.GetService() });
+            try
+            {
+                var summary = svc.GetOverallSummary();
+                return Ok(summary);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = "Error retrieving overall summary", error = ex.Message });
+            }
         }
     }
 }

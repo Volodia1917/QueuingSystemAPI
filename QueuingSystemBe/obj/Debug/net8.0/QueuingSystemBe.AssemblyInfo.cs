@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QueuingSystemBe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef6ef8f3fd0121dda70d7c5adc08e3136b5446db")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75836b9116ba40d08a6f0851ce6298dd46af45ac")]
+>>>>>>> 75c721a9febb31d8bc9840eac31598fc9e826d7d
 [assembly: System.Reflection.AssemblyProductAttribute("QueuingSystemBe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QueuingSystemBe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

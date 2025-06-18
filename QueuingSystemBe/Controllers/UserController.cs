@@ -20,19 +20,19 @@ namespace QueuingSystemBe.Controllers
         }
         [Authorize(Roles = "Admin")]
         [HttpPost]
-        public IActionResult AddUser([FromForm] UserRequest request)
+        public IActionResult AddUser([FromForm] AddUserRequest addUserRequest)
         {
             string? currentEmail = User.FindFirst(System.Security.Claims.ClaimTypes.Email)?.Value;
-            request.CreatedDate = request.CreatedDate?.ToOffset(TimeSpan.Zero);
-            return Ok(svc.AddUser("currentEmail", request));
+            addUserRequest.CreatedDate = addUserRequest.CreatedDate?.ToOffset(TimeSpan.Zero);
+            return Ok(svc.AddUser(currentEmail, addUserRequest));
         }
         [Authorize]
         [HttpPut("{email}")]
-        public IActionResult UpdateUser(string email, [FromForm] UserRequest request)
+        public IActionResult UpdateUser(string email, [FromForm] UpdateUserRequest updateUserRequest)
         {
             string? currentEmail = User.FindFirst(System.Security.Claims.ClaimTypes.Email)?.Value;
-            request.UpdatedDate = request.UpdatedDate?.ToOffset(TimeSpan.Zero);
-            return Ok(svc.UpdateUser(email, currentEmail, request));
+            updateUserRequest.UpdatedDate = updateUserRequest.UpdatedDate?.ToOffset(TimeSpan.Zero);
+            return Ok(svc.UpdateUser(email, currentEmail, updateUserRequest));
         }
         [Authorize(Roles = "Admin")]
         [HttpDelete("{email}")]

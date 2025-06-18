@@ -1,9 +1,8 @@
-﻿using QueuingSystemBe.Models;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace QueuingSystemBe.ViewModels
 {
-    public class UserRequest:UpdateInfor
+    public class AddUserRequest
     {
         [MaxLength(60)]
         public string? Email { get; set; }
@@ -19,5 +18,7 @@ namespace QueuingSystemBe.ViewModels
         public IFormFile? Avatar { get; set; }
         [MaxLength(3)]
         public string? ServiceCode { get; set; }
+        public string? CreatedUser { get; set; }
+        public DateTimeOffset? CreatedDate { get; set; }
     }
 }
