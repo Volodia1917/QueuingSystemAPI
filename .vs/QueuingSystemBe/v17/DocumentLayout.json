@@ -1,45 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\",
+  "WorkspaceRootPath": "D:\\Program\\C#\\QueuingSystemAPI\\",
   "Documents": [
     {
-<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|d:\\program\\c#\\queuingsystemapi\\queuingsystembe\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|d:\\program\\c#\\queuingsystemapi\\queuingsystembe\\services\\assignmentsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\assignmentsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\services\\usersvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\usersvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 75c721a9febb31d8bc9840eac31598fc9e826d7d
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\services\\userconnectsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\userconnectsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|d:\\program\\c#\\queuingsystemapi\\queuingsystembe\\services\\iassignmentsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\iassignmentsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 75c721a9febb31d8bc9840eac31598fc9e826d7d
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\services\\authenticationsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\services\\authenticationsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|d:\\program\\c#\\queuingsystemapi\\queuingsystembe\\viewmodels\\assignmentcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\assignmentcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|d:\\program\\c#\\queuingsystemapi\\queuingsystembe\\viewmodels\\assignmentfilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\assignmentfilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|c:\\users\\trand\\desktop\\queuingsystemapi\\queuingsystembe\\viewmodels\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9831BF88-1FF9-4607-8222-7C0180471EDA}|QueuingSystemBe\\QueuingSystemBe.csproj|solutionrelative:queuingsystembe\\viewmodels\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 75c721a9febb31d8bc9840eac31598fc9e826d7d
     }
   ],
   "DocumentGroupContainers": [
@@ -49,15 +30,18 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 6,
-=======
-          "SelectedChildIndex": 0,
->>>>>>> 75c721a9febb31d8bc9840eac31598fc9e826d7d
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "AssignmentFilterRequest.cs",
               "DocumentMoniker": "D:\\Program\\C#\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\AssignmentFilterRequest.cs",
@@ -66,50 +50,11 @@
               "RelativeToolTip": "QueuingSystemBe\\ViewModels\\AssignmentFilterRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAwwAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T13:40:49.118Z",
-=======
-              "DocumentIndex": 0,
-              "Title": "UserSvc.cs",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\UserSvc.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\UserSvc.cs",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\UserSvc.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Services\\UserSvc.cs",
-              "ViewState": "AgIAAMYAAAAAAAAAAAAowNIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T15:53:46.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserConnectSvc.cs",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\UserConnectSvc.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\UserConnectSvc.cs",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\UserConnectSvc.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Services\\UserConnectSvc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T15:53:43.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Models\\User.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Models\\User.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T15:53:38.928Z",
->>>>>>> 75c721a9febb31d8bc9840eac31598fc9e826d7d
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T13:40:49.118Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-<<<<<<< HEAD
               "Title": "AssignmentCreateRequest.cs",
               "DocumentMoniker": "D:\\Program\\C#\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\AssignmentCreateRequest.cs",
               "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\AssignmentCreateRequest.cs",
@@ -117,8 +62,7 @@
               "RelativeToolTip": "QueuingSystemBe\\ViewModels\\AssignmentCreateRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T13:40:28.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T13:40:28.528Z"
             },
             {
               "$type": "Document",
@@ -130,69 +74,33 @@
               "RelativeToolTip": "QueuingSystemBe\\Services\\IAssignmentSvc.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T13:06:49.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T13:06:49.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AssignmentController.cs",
               "DocumentMoniker": "D:\\Program\\C#\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\AssignmentController.cs",
               "RelativeDocumentMoniker": "QueuingSystemBe\\Controllers\\AssignmentController.cs",
               "ToolTip": "D:\\Program\\C#\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\AssignmentController.cs",
               "RelativeToolTip": "QueuingSystemBe\\Controllers\\AssignmentController.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFQAAABHAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDoAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T13:06:39.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AssignmentSvc.cs",
               "DocumentMoniker": "D:\\Program\\C#\\QueuingSystemAPI\\QueuingSystemBe\\Services\\AssignmentSvc.cs",
               "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\AssignmentSvc.cs",
               "ToolTip": "D:\\Program\\C#\\QueuingSystemAPI\\QueuingSystemBe\\Services\\AssignmentSvc.cs",
               "RelativeToolTip": "QueuingSystemBe\\Services\\AssignmentSvc.cs",
-              "ViewState": "AQIAALsAAAAAAAAAAAAAAOoAAAAaAAAA",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAAPYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T13:06:23.621Z",
               "EditorCaption": ""
-=======
-              "Title": "AuthenticationSvc.cs",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\AuthenticationSvc.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Services\\AuthenticationSvc.cs",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Services\\AuthenticationSvc.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Services\\AuthenticationSvc.cs",
-              "ViewState": "AgIAALgAAAAAAAAAAAAswMUAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T13:40:36.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ForgotPasswordRequest.cs",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\ForgotPasswordRequest.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\ViewModels\\ForgotPasswordRequest.cs",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\ViewModels\\ForgotPasswordRequest.cs",
-              "RelativeToolTip": "QueuingSystemBe\\ViewModels\\ForgotPasswordRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T13:32:47.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "QueuingSystemBe\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\trand\\Desktop\\QueuingSystemAPI\\QueuingSystemBe\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "QueuingSystemBe\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T13:26:07.255Z"
->>>>>>> 75c721a9febb31d8bc9840eac31598fc9e826d7d
             }
           ]
         }

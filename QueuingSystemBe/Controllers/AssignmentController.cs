@@ -48,10 +48,10 @@ public class AssignmentController : ControllerBase
     {
         var email = User.FindFirst(ClaimTypes.Email)?.Value;
         if (string.IsNullOrEmpty(email))
-            return Unauthorized(new { error = "Không tìm thấy email trong token." });
+            return Unauthorized(new { error = "Don't Find email in token." });
 
         var result = _assignmentSvc.UpdateStatusToProcessing(code, email);
-        return result ? Ok() : BadRequest("Không thể cập nhật trạng thái.");
+        return result ? Ok() : BadRequest("Don't update status.");
     }
 
     [HttpPut("to-next")]
@@ -60,10 +60,10 @@ public class AssignmentController : ControllerBase
     {
         var email = User.FindFirst(ClaimTypes.Email)?.Value;
         if (string.IsNullOrEmpty(email))
-            return Unauthorized(new { error = "Không tìm thấy email trong token." });
+            return Unauthorized(new { error = "Don't Find email in token." });
 
         var result = _assignmentSvc.UpdateStatusToNext(code, email);
-        return result ? Ok() : BadRequest("Không thể cập nhật trạng thái.");
+        return result ? Ok() : BadRequest("Don't update status.");
     }
 
     [HttpPut("sequence-update")]
@@ -72,10 +72,10 @@ public class AssignmentController : ControllerBase
     {
         var email = User.FindFirst(ClaimTypes.Email)?.Value;
         if (string.IsNullOrEmpty(email))
-            return Unauthorized(new { error = "Không tìm thấy email trong token." });
+            return Unauthorized(new { error = "Don't Find email in token." });
 
         var result = _assignmentSvc.UpdateStatusSequence(code, email);
-        return result ? Ok() : BadRequest("Không thể cập nhật trạng thái.");
+        return result ? Ok() : BadRequest("Don't update status.");
     }
 
     [HttpGet("admin-filter")]
